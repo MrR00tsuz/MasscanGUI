@@ -21,15 +21,17 @@ A Windows Forms application that provides a graphical user interface for the Mas
 ## Requirements
 
 - Windows operating system
+- [.NET Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.2-windows-x64-installer) (Required to run the application)
 - [WinPcap](https://www.winpcap.org/install/) (Required for Masscan)
 - [Masscan](https://github.com/robertdavidgraham/masscan) executable (masscan64.exe)
 
 ## Installation
 
 1. Download the latest release
-2. Place `masscan64.exe` in the same directory as the GUI application
-3. Install WinPcap if not already installed (use the "Download WinPcap" button in the application)
-4. Run the application
+2. Install .NET Runtime 8.0 if not already installed (use the link above)
+3. Place `masscan64.exe` in the same directory as the GUI application
+4. Install WinPcap if not already installed (use the "Download WinPcap" button in the application)
+5. Run the application
 
 ## Usage
 
