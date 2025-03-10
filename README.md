@@ -1,4 +1,5 @@
 # Masscan GUI
+![image](https://github.com/user-attachments/assets/5262a0f1-090f-416f-8d9a-15297aa0dd16)
 
 A Windows Forms application that provides a graphical user interface for the Masscan port scanner. This tool makes it easy to scan IP blocks by country and analyze results with banner information.
 
